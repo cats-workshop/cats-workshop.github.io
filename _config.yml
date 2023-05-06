@@ -1,0 +1,16 @@
+
+title: CATS 2023
+email: 
+description: 
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cats-workshop.github.io" 
+
+# Build settings
+theme: minima
+
+minima:
+    - skin: auto
+
+header_pages:
+    - cft.md
+    - organization.md
