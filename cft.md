@@ -4,8 +4,6 @@ title: Call for Talks
 permalink: /cft/
 ---
 
-## Overview and topics
-
 Transparency is a means of providing enhanced security to systems by enabling
 auditors to hold system providers accountable to agreed-upon compliance
 policies.  Cryptographic transparency allows for the auditing of certain
@@ -33,13 +31,13 @@ are not limited to):
 * Measurement studies of transparency systems in practice
 * Social and legal implications of transparency systems
 
-## Program committee
+## Submission Instructions
 
-The list of PC members is available [here](/organization).
-
-## Submission guidelines
-
-Submissions must be in PDF format and must be non-anonymous.  The goal of the submission is to convey to the committee the contents and quality of the proposed talk.  As such, the speaker must be identified and must indicate whether they plan to attend the workshop in person.  We strongly encourage speakers to attend the workshop in person.  A submission requires a talk abstract, but can further include:
+Submissions must be in PDF format and must be non-anonymous.
+The goal of the submission is to convey to the committee the contents and quality of the proposed talk.
+As such, the speaker must be identified and must indicate whether they plan to attend the workshop in person.
+We strongly encourage speakers to attend the workshop in-person.
+A submission requires a talk abstract, but can in total include:
 
 * A talk abstract (minimum two pages) [REQUIRED]
 * Expected presentation slides
@@ -49,18 +47,14 @@ Submissions must be in PDF format and must be non-anonymous.  The goal of the su
 Submissions that violate any of the above rules run the risk of being desk rejected.
 
 Submissions are due by September 1, 2023.
-
 Authors will be notified of decisions by September 29, 2023.
-
-## Submission server
-
 The submission server will be available soon.
 
-## Conflicts of interest
+## Conflicts of Interest
 
 We will follow the conflict of interest policy as laid out for [ACM CCS 2023](https://www.sigsac.org/ccs/CCS2023/call-for-paper.html).
 
-## Presentation format
+## Presentation Format
 
 Contributed talks will be given a 20-minute talk slot at the workshop.
 

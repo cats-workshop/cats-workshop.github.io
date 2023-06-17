@@ -11,11 +11,11 @@ Joseph Bonneau, New York University\
 Cedric Fournet, Microsoft Research\
 Esha Ghosh, Microsoft Research\
 Sarah Meiklejohn, Google / UCL\
-Nirvan Tyagi, Cornell University
+Nirvan Tyagi, Stanford University
 
 ## Program Chairs
 Sarah Meiklejohn, Google / UCL\
-Nirvan Tyagi, Cornell University
+Nirvan Tyagi, Stanford University
 
 ## Program Committee
 

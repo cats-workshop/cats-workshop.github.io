@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: 1st Workshop on Cryptography Applied to Transparency Systems
 ---
 
-## 1st Workshop on Cryptography Applied to Transparency Systems
-### November 30, 2023, co-located with [CCS](https://www.sigsac.org/ccs/CCS2023/)
+### November 30, 2023
+### Copenhagen, Denmark (Co-Located with [ACM CCS '23](https://www.sigsac.org/ccs/CCS2023/))
 
 
 CATS is a new venue to bring together academic researchers, industry
