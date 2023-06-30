@@ -45,4 +45,4 @@ Trevor Perrin, Independent Researcher\
 Raluca Ada Popa, UC Berkeley\
 Stefano Tessaro, University of Washington\
 Alin Tomescu, Aptos Labs\
-Santiago Torres-Arias, Purdue University\
+Santiago Torres-Arias, Purdue University
