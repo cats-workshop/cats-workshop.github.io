@@ -39,7 +39,7 @@ As such, the speaker must be identified and must indicate whether they plan to a
 We strongly encourage speakers to attend the workshop in-person.
 A submission requires a talk abstract, but can in total include:
 
-* A talk abstract (minimum two pages) [REQUIRED]
+* A talk abstract (maximum two pages) [REQUIRED]
 * Expected presentation slides
 * Link to full paper
 * Link to past presentations by the speaker or past presentations on the topic
