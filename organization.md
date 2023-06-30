@@ -8,7 +8,7 @@ permalink: /organization/
 
 Hayden Blauzvern, Google\
 Joseph Bonneau, New York University\
-Cedric Fournet, Microsoft Research\
+Cédric Fournet, Microsoft Research\
 Esha Ghosh, Microsoft Research\
 Sarah Meiklejohn, Google / UCL\
 Nirvan Tyagi, Stanford University
@@ -29,7 +29,7 @@ Emma Dauterman, UC Berkeley\
 Angelo De Caro, IBM Zurich\
 Antoine Delignat-Lavaud, Microsoft Research\
 Sascha Fahl, CISPA\
-Cedric Fournet, Microsoft Research\
+Cédric Fournet, Microsoft Research\
 Rosario Gennaro, CUNY / Protocol Labs\
 Esha Ghosh, Microsoft Research\
 Lefteris Kokoris-Kogias, IST Austria / Mysten Labs\
