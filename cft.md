@@ -48,7 +48,7 @@ Submissions that violate any of the above rules run the risk of being desk rejec
 
 Submissions are due by September 1, 2023.
 Authors will be notified of decisions by September 29, 2023.
-The submission server will be available soon.
+The submission server is available [here (hotcrp)](https://cats23.hotcrp.com/).
 
 ## Conflicts of Interest
 
