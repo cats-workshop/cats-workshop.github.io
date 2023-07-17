@@ -25,6 +25,7 @@ Razieh Behjati, Google\
 Hayden Blauzvern, Google\
 Joseph Bonneau, New York University\
 Sofía Celi, Brave\
+Melissa Chase, Microsoft Research\
 George Danezis, Mysten Labs\
 Emma Dauterman, UC Berkeley\
 Angelo De Caro, IBM Zurich\
