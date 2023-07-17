@@ -28,6 +28,7 @@ Sofía Celi, Brave\
 Melissa Chase, Microsoft Research\
 George Danezis, Mysten Labs\
 Emma Dauterman, UC Berkeley\
+Joe DeBlasio, Google\
 Angelo De Caro, IBM Zurich\
 Antoine Delignat-Lavaud, Microsoft Research\
 Sascha Fahl, CISPA\
