@@ -52,4 +52,5 @@ Alberto Sonnino, Mysten Labs / UCL\
 Stefano Tessaro, University of Washington\
 Alin Tomescu, Aptos Labs\
 Santiago Torres-Arias, Purdue University\
+Clint Wilson, Apple\
 Chris Wood, Cloudflare
