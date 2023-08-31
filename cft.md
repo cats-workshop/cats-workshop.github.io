@@ -35,8 +35,8 @@ are not limited to):
 
 Submissions must be in PDF format and must be non-anonymous.
 The goal of the submission is to convey to the committee the contents and quality of the proposed talk.
-As such, the speaker must be identified and must indicate whether they plan to attend the workshop in person.
-We strongly encourage speakers to attend the workshop in-person.
+As such, the speaker must be identified and must confirm that they plan to attend the workshop in-person.
+Due to logistic constraints, we will be requiring speakers to attend the workshop in-person this year.
 A submission requires a talk abstract, but can in total include:
 
 * A talk abstract (maximum two pages) [REQUIRED]
