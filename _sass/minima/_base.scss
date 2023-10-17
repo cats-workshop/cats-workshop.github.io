@@ -244,6 +244,7 @@ table {
     }
   }
   th, td {
+    min-width: 100px;
     padding: ($spacing-unit / 3) ($spacing-unit / 2);
   }
   th {
