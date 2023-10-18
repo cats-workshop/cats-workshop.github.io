@@ -59,7 +59,7 @@ permalink: /program/
         <b> Contributed Talks Session 3 </b>
         <ul>
           <li>Certificate Transparency in 2023: the perspective from a CT-enforcing browser. <i>Joe DeBlasio (Google)</i></li>
-          <li>What we need next: an interoperable witness ecosystem. <i>Filippo Valsorda_</i></li>
+          <li>What we need next: an interoperable witness ecosystem. <i>Filippo Valsorda</i></li>
           <li>Key Transparency without Bulletin Board or Gossip. <i>Esha Ghosh, Melissa Chase (Microsoft Research), Anastasiia Kucherenko (EPFL)</i></li>
         </ul>
       </td>
