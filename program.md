@@ -77,7 +77,7 @@ permalink: /program/
           <li>Preventing ML model tampering with Sigstore. <i>Sarah Meiklejohn (University College London, Google), Hayden Blauzvern (Google), Mihai Maruseac (Google), Laurent Simon (Google)</i></li>
           <li>DuckyZip: Provably Honest Global Linking Service. <i>Nadim Kobeissi (Symbolic Software)</i></li>
           <li>A Minimalistic and Public Transparency Log: Sigsum's Design and Available Tooling. <i>Niels Möller (Glasklar Teknik AB)</i></li>
-          <li><i>2 spots are available for additional talks. If you are coming to the workshop and would like to give a 5-minute lightning talk, please <a href="mailto:cats-workshop-oc@googlegroups.com">email us</a>.</i></li>
+          <li><i>A few spots are available for additional talks. If you are coming to the workshop and would like to give a lightning talk, please <a href="mailto:cats-workshop-oc@googlegroups.com">email us</a>, and let us know if you want 3 or 5 minutes for your talk.</i></li>
         </ul>
       </td>
     </tr>
