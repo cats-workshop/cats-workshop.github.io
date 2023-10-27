@@ -74,7 +74,7 @@ permalink: /program/
       <b>Lightning Talk Session</b>
       <ul>
           <li>Certificate Transparency Log Lists. <i>Roger Ng (Google)</i></li>
-          <li>Preventing ML model tampering with Sigstore. <i>Sarah Meiklejohn (University College London, Google), Hayden Blauzvern (Google), Mihai Maruseac (Google), Laurent Simon (Google)</i></li>
+          <li>Preventing ML model tampering with Sigstore. <i>Sarah Meiklejohn, Hayden Blauzvern, Mihai Maruseac, Laurent Simon (Google)</i></li>
           <li>A Minimalistic and Public Transparency Log: Sigsum's Design and Available Tooling. <i>Niels Möller (Glasklar Teknik AB)</i></li>
           <li><i>A few spots are available for additional talks. If you are coming to the workshop and would like to give a lightning talk, please <a href="mailto:cats-workshop-oc@googlegroups.com">email us</a>, and let us know if you want 3 or 5 minutes for your talk.</i></li>
         </ul>
@@ -82,11 +82,11 @@ permalink: /program/
     </tr>
     <tr>
       <td> 15:30 - 16:30 </td>
-      <td> <b>Breakout Session</b> </td>
+      <td> <b>Breakout Sessions</b> </td>
     </tr>
     <tr>
       <td> 16:30 - 17:00 </td>
-      <td> Breakout summaries and Closing remarks </td>
+      <td> Breakout summaries and closing remarks </td>
     </tr>
   </tbody>
 </table>
