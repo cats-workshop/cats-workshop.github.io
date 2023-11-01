@@ -12,11 +12,11 @@ permalink: /program/
   </thead>
   <tbody>
     <tr>
-      <td> 9:00 - 9:15 </td>
+      <td> 8:45 - 9:00 </td>
       <td> Opening remarks </td>
     </tr>
     <tr>
-      <td> 9:15 - 10:00 </td>
+      <td> 9:00 - 9:50 </td>
       <td>
         <b> Keynote Session </b>
         <ul>
@@ -25,7 +25,7 @@ permalink: /program/
       </td>
     </tr>
     <tr>
-      <td> 10:00 - 10:40 </td>
+      <td> 9:50 - 10:30 </td>
       <td>
         <b> Contributed Talks Session 1 </b>
         <ul>
@@ -35,11 +35,11 @@ permalink: /program/
       </td>
     </tr>
     <tr>
-      <td> 10:40 - 11:10 </td>
+      <td> 10:30 - 11:00 </td>
       <td> Break </td>
     </tr>
     <tr>
-      <td> 11:10 - 12:10 </td>
+      <td> 11:00 - 12:00 </td>
       <td>
         <b> Contributed Talks Session 2 </b>
         <ul>
@@ -50,11 +50,11 @@ permalink: /program/
       </td>
     </tr>
     <tr>
-      <td> 12:10 - 13:40 </td>
+      <td> 12:00 - 13:30 </td>
       <td> Lunch </td>
     </tr>
     <tr>
-      <td> 13:40 - 14:40 </td>
+      <td> 13:30 - 14:30 </td>
       <td>
         <b> Contributed Talks Session 3 </b>
         <ul>
@@ -65,7 +65,7 @@ permalink: /program/
       </td>
     </tr>
     <tr>
-      <td> 14:40 - 15:00 </td>
+      <td> 14:30 - 15:00 </td>
       <td> Break </td>
     </tr>
     <tr>
