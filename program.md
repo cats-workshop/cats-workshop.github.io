@@ -18,7 +18,7 @@ permalink: /program/
     <tr>
       <td> 9:00 - 9:50 </td>
       <td>
-        <b> Keynote Session </b>
+        <b> Keynote Session </b><i> (Session Chair: Esha Ghosh)</i>
         <ul>
           <li>WhatsApp Key Transparency. <i>Kevin Lewi (Meta)</i></li>
         </ul>
@@ -27,7 +27,7 @@ permalink: /program/
     <tr>
       <td> 9:50 - 10:30 </td>
       <td>
-        <b> Contributed Talks Session 1 </b>
+        <b> Contributed Talks Session 1 </b><i> (Session Chair: Joseph Bonneau)</i>
         <ul>
           <li>The Odyssey: Android's First Firmware Binary Transparency via Pixel. <i>Billy Lau (Google)</i></li>
           <li>Why Should I Trust Your Code? Transparent Updates for Confidential Computing. <i>Cédric Fournet, Kapil Vaswani, Antoine Delignat-Lavaud (Microsoft Research)</i></li>
@@ -41,7 +41,7 @@ permalink: /program/
     <tr>
       <td> 11:00 - 12:00 </td>
       <td>
-        <b> Contributed Talks Session 2 </b>
+        <b> Contributed Talks Session 2 </b><i> (Session Chair: Cédric Fournet)</i>
         <ul>
           <li>ChromeOS transparent secret offloading. <i>Philippe Boneff (Google)</i></li>
           <li>LegoLog: A Configurable Transparency Log. <i>Vivian Fang, Emma Dauterman, Akshay Ravoor, Akshit Dewan, Raluca Ada Popa (UC Berkeley)</i></li>
@@ -56,7 +56,7 @@ permalink: /program/
     <tr>
       <td> 13:30 - 14:30 </td>
       <td>
-        <b> Contributed Talks Session 3 </b>
+        <b> Contributed Talks Session 3 </b><i> (Session Chair: Hayden Blauzvern)</i>
         <ul>
           <li>Certificate Transparency in 2023: the perspective from a CT-enforcing browser. <i>Joe DeBlasio (Google)</i></li>
           <li>What we need next: an interoperable witness ecosystem. <i>Filippo Valsorda</i></li>
@@ -71,7 +71,7 @@ permalink: /program/
     <tr>
       <td> 15:00 - 15:30 </td>
       <td>
-      <b>Lightning Talk Session</b>
+      <b>Lightning Talk Session</b><i> (Session Chair: Nirvan Tyagi)</i>
       <ul>
           <li>Certificate Transparency Log Lists. <i>Roger Ng (Google)</i></li>
           <li>Preventing ML model tampering with Sigstore. <i>Sarah Meiklejohn, Hayden Blauzvern, Mihai Maruseac, Laurent Simon (Google)</i></li>
@@ -82,7 +82,7 @@ permalink: /program/
     </tr>
     <tr>
       <td> 15:30 - 16:30 </td>
-      <td> <b>Breakout Sessions</b> </td>
+      <td> <b>Breakout Sessions</b><i> (Session Chair: Sarah Meiklejohn)</i> </td>
     </tr>
     <tr>
       <td> 16:30 - 17:00 </td>
