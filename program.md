@@ -73,10 +73,10 @@ permalink: /program/
       <td>
       <b>Lightning Talk Session</b><i> (Session Chair: Nirvan Tyagi)</i>
       <ul>
+          <li>Transparency in proposed European regulations. <i>Carmela Troncoso (EPFL)</i></li>
           <li>Certificate Transparency Log Lists. <i>Roger Ng (Google)</i></li>
           <li>Preventing ML model tampering with Sigstore. <i>Sarah Meiklejohn, Hayden Blauzvern, Mihai Maruseac, Laurent Simon (Google)</i></li>
           <li>Sigsum: a Minimalistic Public Transparency Log. <i>Niels Möller (Glasklar Teknik AB)</i></li>
-          <li><i>A few spots are available for additional talks. If you are coming to the workshop and would like to give a lightning talk, please <a href="mailto:cats-workshop-oc@googlegroups.com">email us</a>, and let us know if you want 3 or 5 minutes for your talk.</i></li>
         </ul>
       </td>
     </tr>
